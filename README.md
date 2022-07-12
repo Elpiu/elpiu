@@ -1,35 +1,38 @@
 ### <div align="center">I'm Elpidio, a full-time full-stack developer 👨‍💻</div>  
-  
+## <div align="center"> [Check my site !](https://elpiu.github.io/personal-website/)</div>   
 
+
+
+<br><br>
 ## Working on  
-  
-
 - 📓I’m currently working on  [Triennial Thesis](https://github.com/Elpiu/NeuralNetwors)  
   
+  
+  
+<br><br>
+##  🕯️✒️ What i'm learning
+- I'm current am learning react for future project with spring boot 
 
+
+
+<br><br>
 ##  📖 What i'm reading
-
-  
-  
-
 - [The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer ](https://www.amazon.it/Full-Stack-Developer-Essential-Everyday/dp/1484241517)  
   
-
+  
+  
+<br><br>
 ## 📙 What i read
-  
-  
-
 - [Programmazione in C](https://www.amazon.it/Programmazione-C-Kim-N-King/dp/8838785821)  
   
-
-<br/>  
-
-
+  
+  
+<br><br>
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
 
-
+<br><br>
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
