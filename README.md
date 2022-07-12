@@ -24,11 +24,18 @@
 <br><br>
 ## 📙 What i read
 - [Programmazione in C](https://www.amazon.it/Programmazione-C-Kim-N-King/dp/8838785821)  
-  
-  
+
+
+##
+I love [design patterns](https://refactoring.guru) and [data structure](https://www.geeksforgeeks.org/data-structures)
+
+<br>
   
 <br><br>
-## My Skill Set  
+## My Skill Set
+<br>
+
+
 <table><tr><td valign="top" width="50%">
 
 
@@ -93,6 +100,7 @@
 
 <br/>  
 
+<!--
 <div align="center">
             <a href="https://paypal.me/elpiu" target="_blank" style="display: inline-block;">
                 <img
@@ -107,6 +115,7 @@
                 />
             </a></div>  
 
+-->
 <br/>  
 
 <div align="center">
