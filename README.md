@@ -5,7 +5,7 @@
 
 <br><br>
 ## Working on  
-- 📓I’m currently working on  [Triennial Thesis](https://github.com/Elpiu/NeuralNetwors)  
+- 📓I’m currently working on  [Bachelor's thesis in computer science](https://github.com/Elpiu/NeuralNetwors)  
   
   
   
