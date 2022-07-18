@@ -18,8 +18,7 @@
 <br><br>
 ##  📖 What i'm reading
 - [The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer ](https://www.amazon.it/Full-Stack-Developer-Essential-Everyday/dp/1484241517)  
-  
-  
+- [Hands-On Full Stack Development with Spring Boot 2.0 and React](https://www.packtpub.com/product/hands-on-full-stack-development-with-spring-boot-2-0-and-react/9781789138085)
   
 <br><br>
 ## 📙 What i read
