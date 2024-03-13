@@ -1,42 +1,31 @@
-### <div align="center">I'm Elpidio, a full-time full-stack developer 👨‍💻</div>  
+### <div align="center">👋 Ciao, sono Elpidio, un appassionato sviluppatore full stack 👨‍💻.</div>  
 ## <div align="center"> [Check my site !](https://elpiu.github.io/personal-website/)</div>   
 
-
-
-<br><br>
-## Working on  
-- 📓I’m currently working on  [Bachelor's thesis in computer science](https://github.com/Elpiu/NeuralNetwors)  
-  
-  
-  
-<br><br>
-##  🕯️✒️ What i'm learning
-- I'm current am learning react for future project with spring boot 
+L'informatica non è solo il mio lavoro, ma anche la mia passione e il mio hobby, guidando ogni aspetto della mia vita professionale e personale.
 
 
 
 <br><br>
-##  📖 What i'm reading
-- [The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer ](https://www.amazon.it/Full-Stack-Developer-Essential-Everyday/dp/1484241517)  
-- [Hands-On Full Stack Development with Spring Boot 2.0 and React](https://www.packtpub.com/product/hands-on-full-stack-development-with-spring-boot-2-0-and-react/9781789138085)
-  
+## 🌐 Full Stack Explorer
+Sono sempre alla ricerca di nuove sfide e competenze. Il mio obiettivo? Accumulare esperienza in ogni ambito possibile, da Backend a Frontend, da AI a DevOps, esplorando e sperimentando senza limiti.
+
 <br><br>
-## 📙 What i read
-- [Programmazione in C](https://www.amazon.it/Programmazione-C-Kim-N-King/dp/8838785821)  
+## 💻 Esperienza Consolidata
+Con diversi anni di esperienza nel mondo dello sviluppo software, mi sono specializzato nell'implementazione di applicazioni Enterprise. I miei linguaggi principali sono Java/Spring per il Backend e Typescript/Angular per il Frontend.
 
+<br><br>
+## 🚀 Progetti Innovativi 
+Oltre a progetti enterprise, ho portato avanti idee personali con LLM e mi sono cimentato in progetti di intelligenza artificiale come reinforcement learning e classificazione.
 
-##
-I love [design patterns](https://refactoring.guru) and [data structure](https://www.geeksforgeeks.org/data-structures)
+<br><br>
+## 📚 In Costante Aggiornamento
+Attualmente, sto ampliando le mie competenze attraverso lo studio delle certificazioni cloud di AWS, dimostrando il mio impegno nel rimanere sempre all'avanguardia nel mondo in continua evoluzione della tecnologia.
 
-<br>
-  
 <br><br>
 ## My Skill Set
 <br>
 
-
 <table><tr><td valign="top" width="50%">
-
 
 <br><br>
 ### Frontend  
